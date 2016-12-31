@@ -178,6 +178,9 @@
     - LenovoA3300-GV
     - LenovoA3300-HV
     - LenovoA3300-T
+    - A3300-GV
+    - A3300-HV
+    - A3300-T
   architecture: armeabi-v7a
 
   block_devs:

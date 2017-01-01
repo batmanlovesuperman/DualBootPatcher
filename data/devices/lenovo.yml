@@ -172,8 +172,8 @@
     recovery:
       - /dev/block/bootdevice/by-name/recovery
 
-- name: Lenovo IdeaTab A7-30
-  id: A7-30
+- name: Lenovo IdeaTab A7-30 A3300
+  id: A3300
   codenames:
     - LenovoA3300-GV
     - LenovoA3300-HV

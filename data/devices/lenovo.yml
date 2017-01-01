@@ -181,6 +181,11 @@
     - A3300-GV
     - A3300-HV
     - A3300-T
+    - A3300
+    - a3300-gv
+    - a3300-hv
+    - a3300-t
+    - a3300
   architecture: armeabi-v7a
 
   block_devs:
